@@ -1,10 +1,5 @@
 # KAN-based Brain Tumor Classification
 
-## One-liner
-Using **Kolmogorov-Arnold Networks (KANs)** to classify brain tumor MRI images — an efficient alternative to CNNs for small medical datasets.
-
----
-
 ## Table of Contents
 - [Overview](#overview)
 - [Motivation](#motivation)
@@ -126,8 +121,3 @@ The images are grayscale and preprocessed to standard size (e.g., 128x128 or 224
 3. [Suitability of KANs for Vision](https://arxiv.org/html/2406.09087v1)
 4. [Convolutional Kolmogorov–Arnold Networks](https://arxiv.org/abs/2406.13155)
 
----
-
-## 🏷️ Tags
-
-`#MachineLearning` `#DeepLearning` `#KAN` `#CNN` `#MedicalImaging` `#BrainTumor` `#ImageClassification` `#AIHealthcare`
