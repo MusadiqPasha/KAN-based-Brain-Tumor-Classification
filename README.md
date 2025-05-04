@@ -71,7 +71,6 @@ The images are grayscale and preprocessed to standard size (e.g., 128x128 or 224
 ## Code Structure
 
 ```
-├── main.py                           # Python script to run model training
 ├── Matrixx_078_079_095_107_code.ipynb # Jupyter notebook with full training & evaluation
 ├── Matrixx_078_079_095_107_Paper.pdf # Detailed project report
 ├── Dataset                           # Dataset 
