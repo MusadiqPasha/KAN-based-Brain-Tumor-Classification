@@ -73,7 +73,7 @@ The images are grayscale and preprocessed to standard size (e.g., 128x128 or 224
 ```
 ├── Matrixx_078_079_095_107_code.ipynb # Jupyter notebook with full training & evaluation
 ├── Matrixx_078_079_095_107_Paper.pdf # Detailed project report
-├── Dataset                           # Dataset 
+├── Matrixx_078_079_095_107_PPT.pdf   # Project PPT
 ├── README.md                         # Project documentation
 ```
 
