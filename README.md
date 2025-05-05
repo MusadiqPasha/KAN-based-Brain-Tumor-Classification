@@ -43,6 +43,10 @@ The images are grayscale and preprocessed to standard size (e.g., 128x128 or 224
 
 ## Methodology
 
+### KAN Small Architecture
+
+<img src="https://github.com/MusadiqPasha/KAN-based-Brain-Tumor-Classification/blob/main/architecture.png">
+
 ### 1. **Data Preprocessing**
 - Converted images to grayscale and normalized pixel values.
 - Resized all images to a uniform dimension.
