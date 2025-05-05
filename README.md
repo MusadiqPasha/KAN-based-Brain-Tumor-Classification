@@ -102,6 +102,16 @@ The images are grayscale and preprocessed to standard size (e.g., 128x128 or 224
 - Accuracy scores improved by ~5–10% in some test runs.
 - KAN showed more stable learning curves with reduced overfitting.
 
+| Architecture | Accuracy |
+|-------------|----------|
+| KANC MLP (Small) | 84.82% |
+| KKAN (Small) | 88.94% |
+| Conv KAN (Small) | 87.34% |
+| KKAN (Medium) | 88.48% |
+| KANC MLP (Medium) | 87.64% |
+| Conv KAN (Medium) | 89.09% |
+| KANC MLP (Large) | 84.59% |
+
 ---
 
 ## Future Work
